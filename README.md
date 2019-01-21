@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/bwsw/cloudstack-ui.svg?branch=master)](https://travis-ci.org/bwsw/cloudstack-ui) [![Coverage Status](https://coveralls.io/repos/github/bwsw/cloudstack-ui/badge.svg?branch=master)](https://coveralls.io/github/bwsw/cloudstack-ui?branch=master)
+[![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=<badge_key>)](https://www.browserstack.com/automate/public-build/elUzLzZMU2F0d3VuM1dOOGNKQ01SNDQva0s5ejBKZC9EU3Q1WFFOYUxOdz0tLWVJUFdLdloxN2t3eXBlOGd5VERQWVE9PQ==--32aa69bae9b16fabe2cc41a94549e925bec4979e)
 
 # Table of Contents
 
